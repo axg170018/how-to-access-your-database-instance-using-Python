@@ -1,6 +1,7 @@
 # how-to-access-your-database-instance-using-Python
 
 This notebook illustrates how to access your database instance using Python by following the steps below:
+
 1.Import the ibm_db Python library
 
 2.Identify and enter the database connection credentials 
